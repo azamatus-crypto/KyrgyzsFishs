@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_issikul"
+            android:icon="@drawable/ic_arrow_foreground"
+            android:title="@string/issyk_kul_fish_p" />
+        <item
+            android:id="@+id/nav_sonkol"
+            android:icon="@drawable/ic_arrow_foreground"
+            android:title="@string/sonkol_e_fish_p" />
+        <item
+            android:id="@+id/nav_sarichelek"
+            android:icon="@drawable/ic_arrow_foreground"
+            android:title="@string/fish_p" />
+        <item
+            android:id="@+id/nav_istorii"
+            android:icon="@drawable/ic_arrow_foreground"
+            android:title="@string/tips_for_fishermen_c_p" />
+    </group>
+</menu>

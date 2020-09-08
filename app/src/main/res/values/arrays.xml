@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Isikulfisharray">
+       <item>Ишхан-IshHan</item>
+       <item>Плотва-Leuciscus schmidt</item>
+       <item>чебачок-Chebak</item>
+       <item>Cудак-Walleye</item>
+       <item>Лещ-Bream</item>
+       <item>Kарп-Carp</item>
+    </string-array>
+    <string-array name="Sonkolfisharray">
+        <item>Cиг-Coregonus lavaretus Linnaeus</item>
+        <item>чир-Coregonus nasus Pallas</item>
+        <item>пелядь-Coregonus peled Gmelin</item>
+        <item>обыкновенная маринка-Schizothorax intermedius McClelland</item>
+        <item>голый осман-Diptychus dybowskii Kessler</item>
+        <item>редкочешуйчатый осман-Diptychus gymnogaster Kessler</item>
+        <item>чешуйчатый осман-Diptychus maculatus Steindachner</item>
+        <item>осман Северцова-Diptychus sewerzowi Kessler</item>
+        <item>серый голец-Noemacheilus dorsalis</item>
+        <item>тибетский голец-Noemacheilus stoliczkai</item>
+    </string-array>
+    <string-array name="sarichelekfisharray">
+        <item>Ишхан-IshHan</item>
+        <item>Плотва-Leuciscus schmidt</item>
+        <item>Cудак-Walleye</item>
+        <item>Лещ-Bream</item>
+        <item>Kарп-Carp</item>
+    </string-array>
+    <string-array name="main_text_size_array">
+        <item>bolshoy</item>
+        <item>sredniy</item>
+        <item>malenkiy</item>
+    </string-array>
+    <string-array name="istorii">
+        <item>Eсли вы находитесь в бишкеке и не можете ехать далеко. Ала-Арчинское водохранилище
+                Координаты: 42.9930753,42.9930753 (Широта/Долгота)If you are in bishkek and cannot travel far.
+            Ala-Archinskoe reservoir Coordinates: 42.9930753,42.9930753 (Latitude / Longitude)
+
+второе Ала-Арчинское водохранилище (АА2)
+Координаты: 42.9995118,42.9995118 (Широта/Долгота) second Ala-Archinskoe reservoir (АА2)
+Coordinates: 42.9995118,42.9995118 (Latitude / Longitude)
+        третье Ала-Арчинское водохранилище (АА3)
+Координаты: 42.9903266,42.9903266 (Широта/Долгота) second Ala-Archinskoe reservoir (АА2)
+Coordinates: 42.9995118,42.9995118 (Latitude / Longitude)third Ala-Archinskoe reservoir (АА3)
+Coordinates: 42.9903266.42.9903266 (Latitude / Longitude)
+        водохранилище Спартак
+Координаты: 43.0563703,43.0563703 (Широта/Долгота) reservoir Spartak
+Coordinates: 43.0563703,43.0563703 (Latitude / Longitude)
+        Тасоткельское водохранилище (Ташаткуль)
+Координаты: 43.3613693,43.3613693 (Широта/Долгота) Tasotkel reservoir (Tashatkul)
+Coordinates: 43.3613693,43.3613693 (Latitude / Longitude)
+        Ленинское водохранилище
+Координаты: 42.970184,42.970184 (Широта/Долгота)Leninskoe reservoir
+Coordinates: 42.970184,42.970184 (Latitude / Longitude)
+        Сокулукское водохранилище
+Координаты: 42.9463728,42.9463728 (Широта/Долгота)Sokuluk reservoir
+Coordinates: 42.9463728,42.9463728 (Latitude / Longitude)
+        Длинное озеро
+Координаты: 42.947204,42.947204 (Широта/Долгота)Long lake
+Coordinates: 42.947204,42.947204 (Latitude / Longitude)
+        ДСК пруд
+Координаты: 43.082749,43.082749 (Широта/Долгота)DSK pond
+Coordinates: 43.082749,43.082749 (Latitude / Longitude) </item>
+
+    </string-array>
+</resources>
